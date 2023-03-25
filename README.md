@@ -14,10 +14,10 @@ make
 
 To run the sample program:
 ```bash
-bash$ ./npshell
+bash$ ./shell
 ```
 
-”% ” is the command line prompt.
+"% " is the command line prompt.
 ```bash
 % printenv PATH # initial PATH is bin/ and ./
 ```
