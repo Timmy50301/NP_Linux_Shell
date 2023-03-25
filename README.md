@@ -25,7 +25,7 @@ bash$ ./npshell
 % setenv PATH bin # set PATH to bin/ only
 ```
 ```bash
-% cat test1.txt # basic command
+% cat test.html # basic command
 ```
 ```bash
 % removetag test.html | number # pipe
