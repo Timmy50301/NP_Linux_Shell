@@ -1,6 +1,6 @@
 npshell:
-	g++ npshell.cpp -o npshell
+	g++ shell.cpp -o shell
 
 .PHONY: clean
 clean:
-	rm -rf npshell
+	rm -rf shell
